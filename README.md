@@ -3,6 +3,10 @@ A script is designed to discover routers in the network
 
 脚本用于发现网络中的路由器设备,通过发送http请求,进行**规则匹配**。
 
+## 使用说明
+- - -
+![banner.png](https://github.com/Xyntax/POC-T/blob/2.0/doc/banner.png)
+
 usage: router.py [-h] [-f FILE] [-t TIMEOUT] [-c COUNT]
 
 routerAsset v1.0
