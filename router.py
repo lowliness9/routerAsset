@@ -5,6 +5,8 @@ import sys
 import threading
 import time
 import argparse
+reload(sys)
+sys.setdefaultencoding('utf-8')
 requests.packages.urllib3.disable_warnings()
 
 headers = {
