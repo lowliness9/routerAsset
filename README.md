@@ -19,13 +19,15 @@ optional arguments:
 
 ### 规则文件
 - - -
-规则只能匹配响应头中的Server或响应体中的内容
-{'type':'respbody_banner','routerName':'','feature':''}
-{'type':'respheader_server','routerName':'','feature':''}
+规则只能匹配响应头中的Server或响应体中的内容  
+* {'type':'respbody_banner','routerName':'','feature':''}  
+* {'type':'respheader_server','routerName':'','feature':''}  
 
 ### 使用情况
 - - -
 ![task.png](https://github.com/lowliness9/routerAsset/blob/master/images/task.png)
+
+![result.png](https://github.com/lowliness9/routerAsset/blob/master/images/result.png)
 
 ### 其它
 - - -
